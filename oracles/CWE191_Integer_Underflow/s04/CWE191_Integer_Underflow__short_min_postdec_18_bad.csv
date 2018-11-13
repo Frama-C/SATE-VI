@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__short_min_postdec_18.c	CWE191_Integer_Underflow__short_min_postdec_18_bad	signed_downcast	Invalid or unreachable	-32768 ≤ (int)data - 1

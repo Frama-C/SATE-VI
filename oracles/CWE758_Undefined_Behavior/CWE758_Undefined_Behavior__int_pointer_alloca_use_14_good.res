@@ -1,0 +1,1 @@
+CWE758_Undefined_Behavior__int_pointer_alloca_use_14_good: ok

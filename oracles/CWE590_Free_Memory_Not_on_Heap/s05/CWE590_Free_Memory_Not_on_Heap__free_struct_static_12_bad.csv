@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE590_Free_Memory_Not_on_Heap__free_struct_static_12.c	CWE590_Free_Memory_Not_on_Heap__free_struct_static_12_bad	precondition of free	Unknown	freeable: p ≡ \null ∨ \freeable(p)
+FRAMAC_SHARE/libc	stdlib.h	free	precondition	Unknown	freeable: p ≡ \null ∨ \freeable(p)

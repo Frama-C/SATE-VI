@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__int_fscanf_modulo_63b.c	CWE369_Divide_by_Zero__int_fscanf_modulo_63b_badSink	division_by_zero	Unknown	data ≢ 0

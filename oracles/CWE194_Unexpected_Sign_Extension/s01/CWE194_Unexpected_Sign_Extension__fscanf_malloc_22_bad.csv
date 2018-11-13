@@ -1,0 +1,6 @@
+directory	file	function	property kind	status	property
+.	CWE194_Unexpected_Sign_Extension__fscanf_malloc_22a.c	CWE194_Unexpected_Sign_Extension__fscanf_malloc_22_bad	precondition of memset	Unknown	valid_s: valid_or_empty(s, n)
+.	CWE194_Unexpected_Sign_Extension__fscanf_malloc_22a.c	CWE194_Unexpected_Sign_Extension__fscanf_malloc_22_bad	mem_access	Unknown	\valid(dataBuffer + (int)((int)data - 1))
+FRAMAC_SHARE/libc	string.h	memset	precondition	Unknown	valid_s: valid_or_empty(s, n)
+TESTCASESUPPORT_DIR	io.c	printLine	precondition of printf_va_1	Unknown	valid_read_string(param0)
+TESTCASESUPPORT_DIR	io.c	printf_va_1	precondition	Unknown	valid_read_string(param0)

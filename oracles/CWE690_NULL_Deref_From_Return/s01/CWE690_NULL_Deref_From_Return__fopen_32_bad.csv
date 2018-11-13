@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE690_NULL_Deref_From_Return__fopen_32.c	CWE690_NULL_Deref_From_Return__fopen_32_bad	precondition of fclose	Unknown	valid_stream: \valid(stream)
+FRAMAC_SHARE/libc	stdio.h	fclose	precondition	Unknown	valid_stream: \valid(stream)

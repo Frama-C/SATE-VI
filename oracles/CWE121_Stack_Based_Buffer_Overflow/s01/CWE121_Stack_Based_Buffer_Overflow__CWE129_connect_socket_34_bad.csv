@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE129_connect_socket_34.c	CWE121_Stack_Based_Buffer_Overflow__CWE129_connect_socket_34_bad	index_bound	Unknown	data_0 < 10

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE197_Numeric_Truncation_Error__short_large_12.c	CWE197_Numeric_Truncation_Error__short_large_12_bad	signed_downcast	Unknown	data ≤ 127

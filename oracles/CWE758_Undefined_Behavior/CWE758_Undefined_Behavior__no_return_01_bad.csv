@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE758_Undefined_Behavior__no_return_01.c	helperBad	missing_return	Invalid or unreachable	\false

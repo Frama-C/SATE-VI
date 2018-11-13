@@ -1,0 +1,1 @@
+CWE665_Improper_Initialization__char_cat_11_bad: ok

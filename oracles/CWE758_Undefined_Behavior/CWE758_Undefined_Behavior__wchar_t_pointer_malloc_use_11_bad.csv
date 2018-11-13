@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE758_Undefined_Behavior__wchar_t_pointer_malloc_use_11.c	CWE758_Undefined_Behavior__wchar_t_pointer_malloc_use_11_bad	initialization	Invalid or unreachable	\initialized(&data)

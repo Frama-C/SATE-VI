@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__short_fscanf_square_63b.c	CWE190_Integer_Overflow__short_fscanf_square_63b_badSink	signed_downcast	Unknown	(int)data * (int)data ≤ 32767
+.	CWE190_Integer_Overflow__short_fscanf_square_63b.c	CWE190_Integer_Overflow__short_fscanf_square_63b_badSink	signed_downcast	Unknown	-32768 ≤ (int)data * (int)data

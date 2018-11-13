@@ -1,0 +1,1 @@
+CWE127_Buffer_Underread__malloc_char_ncpy_42_good: ok

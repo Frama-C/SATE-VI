@@ -1,0 +1,5 @@
+directory	file	function	property kind	status	property
+.	CWE122_Heap_Based_Buffer_Overflow__c_CWE805_char_snprintf_08.c	CWE122_Heap_Based_Buffer_Overflow__c_CWE805_char_snprintf_08_bad	precondition of snprintf_va_1	Unknown	\valid(s + (0 .. n - 1)) ∨ \valid(s + (0 .. format_length(format) - 1))
+.	CWE122_Heap_Based_Buffer_Overflow__c_CWE805_char_snprintf_08.c	snprintf_va_1	precondition	Unknown	\valid(s + (0 .. n - 1)) ∨ \valid(s + (0 .. format_length(format) - 1))
+TESTCASESUPPORT_DIR	io.c	printLine	precondition of printf_va_1	Unknown	valid_read_string(param0)
+TESTCASESUPPORT_DIR	io.c	printf_va_1	precondition	Unknown	valid_read_string(param0)

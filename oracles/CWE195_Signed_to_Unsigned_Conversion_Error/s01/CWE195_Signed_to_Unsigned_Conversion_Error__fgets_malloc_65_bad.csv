@@ -1,0 +1,7 @@
+directory	file	function	property kind	status	property
+.	CWE195_Signed_to_Unsigned_Conversion_Error__fgets_malloc_65b.c	CWE195_Signed_to_Unsigned_Conversion_Error__fgets_malloc_65b_badSink	precondition of memset	Unknown	valid_s: valid_or_empty(s, n)
+.	CWE195_Signed_to_Unsigned_Conversion_Error__fgets_malloc_65b.c	CWE195_Signed_to_Unsigned_Conversion_Error__fgets_malloc_65b_badSink	signed_overflow	Unknown	-2147483648 ≤ data - 1
+.	CWE195_Signed_to_Unsigned_Conversion_Error__fgets_malloc_65b.c	CWE195_Signed_to_Unsigned_Conversion_Error__fgets_malloc_65b_badSink	mem_access	Unknown	\valid(dataBuffer + (int)(data - 1))
+FRAMAC_SHARE/libc	string.h	memset	precondition	Unknown	valid_s: valid_or_empty(s, n)
+TESTCASESUPPORT_DIR	io.c	printLine	precondition of printf_va_1	Unknown	valid_read_string(param0)
+TESTCASESUPPORT_DIR	io.c	printf_va_1	precondition	Unknown	valid_read_string(param0)

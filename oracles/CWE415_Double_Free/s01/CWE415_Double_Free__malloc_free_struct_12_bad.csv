@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE415_Double_Free__malloc_free_struct_12.c	CWE415_Double_Free__malloc_free_struct_12_bad	dangling_pointer	Unknown	¬\dangling(&data)

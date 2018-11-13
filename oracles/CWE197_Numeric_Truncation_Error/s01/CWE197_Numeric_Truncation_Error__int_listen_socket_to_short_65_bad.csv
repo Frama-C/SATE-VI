@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE197_Numeric_Truncation_Error__int_listen_socket_to_short_65b.c	CWE197_Numeric_Truncation_Error__int_listen_socket_to_short_65b_badSink	signed_downcast	Unknown	-32768 ≤ data
+.	CWE197_Numeric_Truncation_Error__int_listen_socket_to_short_65b.c	CWE197_Numeric_Truncation_Error__int_listen_socket_to_short_65b_badSink	signed_downcast	Unknown	data ≤ 32767

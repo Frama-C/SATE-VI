@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+FRAMAC_SHARE/libc	string.c	strcpy	mem_access	Unknown	\valid(dest + i)

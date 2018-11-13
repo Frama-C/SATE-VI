@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__listen_socket_54_bad: ok

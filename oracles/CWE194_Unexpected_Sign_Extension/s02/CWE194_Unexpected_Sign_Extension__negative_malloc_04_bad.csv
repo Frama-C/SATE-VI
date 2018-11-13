@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE194_Unexpected_Sign_Extension__negative_malloc_04.c	CWE194_Unexpected_Sign_Extension__negative_malloc_04_bad	mem_access	Invalid or unreachable	\valid(dataBuffer + (int)((int)data - 1))

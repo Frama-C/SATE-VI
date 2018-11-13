@@ -1,0 +1,1 @@
+CWE835_Infinite_Loop__while_true_01_good: ok

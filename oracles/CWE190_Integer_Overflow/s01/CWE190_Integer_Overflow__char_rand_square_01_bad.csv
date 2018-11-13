@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__char_rand_square_01.c	CWE190_Integer_Overflow__char_rand_square_01_bad	signed_downcast	Unknown	(int)data * (int)data ≤ 127

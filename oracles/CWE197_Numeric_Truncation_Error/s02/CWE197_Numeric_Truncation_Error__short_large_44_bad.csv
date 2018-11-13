@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE197_Numeric_Truncation_Error__short_large_44.c	badSink	signed_downcast	Invalid or unreachable	data ≤ 127

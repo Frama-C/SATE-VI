@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+TESTCASESUPPORT_DIR	io.c	printDoubleLine	initialization	Invalid or unreachable	\initialized(&doubleNumber)

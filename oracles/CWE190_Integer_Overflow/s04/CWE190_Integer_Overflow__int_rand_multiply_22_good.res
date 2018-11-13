@@ -1,0 +1,1 @@
+CWE190_Integer_Overflow__int_rand_multiply_22_good: ok

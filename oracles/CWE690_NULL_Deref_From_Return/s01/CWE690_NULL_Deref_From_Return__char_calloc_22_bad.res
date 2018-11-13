@@ -1,0 +1,1 @@
+CWE690_NULL_Deref_From_Return__char_calloc_22_bad: ok

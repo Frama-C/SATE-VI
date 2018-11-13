@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE122_Heap_Based_Buffer_Overflow__c_CWE806_wchar_t_snprintf_16.c	CWE122_Heap_Based_Buffer_Overflow__c_CWE806_wchar_t_snprintf_16_bad	precondition of swprintf_va_1	Unknown	\valid(ws + (0 .. n - 1)) ∨ \valid(ws + (0 .. wformat_length(format) - 1))
+.	CWE122_Heap_Based_Buffer_Overflow__c_CWE806_wchar_t_snprintf_16.c	swprintf_va_1	precondition	Unknown	\valid(ws + (0 .. n - 1)) ∨ \valid(ws + (0 .. wformat_length(format) - 1))

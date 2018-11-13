@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE195_Signed_to_Unsigned_Conversion_Error__connect_socket_strncpy_34.c	CWE195_Signed_to_Unsigned_Conversion_Error__connect_socket_strncpy_34_bad	index_bound	Unknown	0 ≤ data_0
+FRAMAC_SHARE/libc	string.c	strncpy	mem_access	Unknown	\valid(dest + i)

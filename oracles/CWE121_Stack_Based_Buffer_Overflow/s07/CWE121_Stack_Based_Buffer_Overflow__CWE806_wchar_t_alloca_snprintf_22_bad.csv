@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE806_wchar_t_alloca_snprintf_22a.c	CWE121_Stack_Based_Buffer_Overflow__CWE806_wchar_t_alloca_snprintf_22_bad	precondition of swprintf_va_1	Unknown	\valid(ws + (0 .. n - 1)) ∨ \valid(ws + (0 .. wformat_length(format) - 1))
+.	CWE121_Stack_Based_Buffer_Overflow__CWE806_wchar_t_alloca_snprintf_22a.c	swprintf_va_1	precondition	Unknown	\valid(ws + (0 .. n - 1)) ∨ \valid(ws + (0 .. wformat_length(format) - 1))

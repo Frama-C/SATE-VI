@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE127_Buffer_Underread__char_alloca_memcpy_65b.c	CWE127_Buffer_Underread__char_alloca_memcpy_65b_badSink	precondition of memcpy	Invalid or unreachable	valid_src: valid_read_or_empty(src, n)
+FRAMAC_SHARE/libc	string.h	memcpy	precondition	Invalid or unreachable	valid_src: valid_read_or_empty(src, n)

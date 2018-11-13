@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__int_zero_divide_44.c	badSink	division_by_zero	Invalid or unreachable	data ≢ 0

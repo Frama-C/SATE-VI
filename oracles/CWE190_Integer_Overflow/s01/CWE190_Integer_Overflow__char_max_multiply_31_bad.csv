@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__char_max_multiply_31.c	CWE190_Integer_Overflow__char_max_multiply_31_bad	signed_downcast	Invalid or unreachable	(int)data_0 * 2 ≤ 127

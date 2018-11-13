@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__short_rand_postdec_04.c	CWE191_Integer_Underflow__short_rand_postdec_04_bad	signed_downcast	Unknown	-32768 ≤ (int)data - 1

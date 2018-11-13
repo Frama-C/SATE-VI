@@ -1,0 +1,4 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__float_fgets_41.c	goodB2GSink	float_to_int	Unknown	-2147483649 < 100.0 / (double)data
+.	CWE369_Divide_by_Zero__float_fgets_41.c	goodB2GSink	float_to_int	Unknown	100.0 / (double)data < 2147483648
+.	CWE369_Divide_by_Zero__float_fgets_41.c	goodB2GSink	is_nan_or_infinite	Unknown	\is_finite((double)(100.0 / (double)data))

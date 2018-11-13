@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE617_Reachable_Assertion__connect_socket_21.c	CWE617_Reachable_Assertion__connect_socket_21_bad	precondition of __FC_assert	Unknown	nonnull_c: c ≢ 0
+FRAMAC_SHARE/libc	assert.h	__FC_assert	precondition	Unknown	nonnull_c: c ≢ 0

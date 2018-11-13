@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE195_Signed_to_Unsigned_Conversion_Error__fscanf_strncpy_64b.c	CWE195_Signed_to_Unsigned_Conversion_Error__fscanf_strncpy_64b_badSink	index_bound	Unknown	0 ≤ data
+FRAMAC_SHARE/libc	string.c	strncpy	mem_access	Unknown	\valid(dest + i)

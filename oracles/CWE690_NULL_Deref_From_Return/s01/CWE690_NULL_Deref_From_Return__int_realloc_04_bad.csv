@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE690_NULL_Deref_From_Return__int_realloc_04.c	CWE690_NULL_Deref_From_Return__int_realloc_04_bad	mem_access	Unknown	\valid(data + 0)

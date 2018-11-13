@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE690_NULL_Deref_From_Return__long_calloc_02.c	CWE690_NULL_Deref_From_Return__long_calloc_02_bad	mem_access	Unknown	\valid(data + 0)

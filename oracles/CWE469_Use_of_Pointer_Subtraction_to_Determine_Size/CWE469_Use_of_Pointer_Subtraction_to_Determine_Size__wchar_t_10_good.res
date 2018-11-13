@@ -1,0 +1,1 @@
+CWE469_Use_of_Pointer_Subtraction_to_Determine_Size__wchar_t_10_good: ok

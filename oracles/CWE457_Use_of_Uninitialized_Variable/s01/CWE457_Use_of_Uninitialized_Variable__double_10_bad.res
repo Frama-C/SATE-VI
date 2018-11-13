@@ -1,0 +1,1 @@
+CWE457_Use_of_Uninitialized_Variable__double_10_bad: ok

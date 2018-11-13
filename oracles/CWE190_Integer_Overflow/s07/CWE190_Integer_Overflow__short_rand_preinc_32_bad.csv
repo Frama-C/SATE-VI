@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__short_rand_preinc_32.c	CWE190_Integer_Overflow__short_rand_preinc_32_bad	signed_downcast	Unknown	(int)data_1 + 1 ≤ 32767

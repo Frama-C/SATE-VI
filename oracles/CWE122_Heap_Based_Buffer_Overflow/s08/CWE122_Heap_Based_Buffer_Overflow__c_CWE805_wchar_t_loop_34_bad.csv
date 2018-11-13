@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE122_Heap_Based_Buffer_Overflow__c_CWE805_wchar_t_loop_34.c	CWE122_Heap_Based_Buffer_Overflow__c_CWE805_wchar_t_loop_34_bad	mem_access	Unknown	\valid(data_0 + i)

@@ -1,0 +1,8 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c	CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G1Sink	precondition of imaxabs	Unknown	abs_representable: (long long)(-c) ≢ c
+.	CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c	CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G1Sink	signed_overflow	Unknown	-9223372036854775808 ≤ data * data
+.	CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c	CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G1Sink	signed_overflow	Unknown	data * data ≤ 9223372036854775807
+.	CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c	CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G2Sink	precondition of imaxabs	Unknown	abs_representable: (long long)(-c) ≢ c
+.	CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c	CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G2Sink	signed_overflow	Unknown	-9223372036854775808 ≤ data * data
+.	CWE190_Integer_Overflow__int64_t_fscanf_square_22b.c	CWE190_Integer_Overflow__int64_t_fscanf_square_22_goodB2G2Sink	signed_overflow	Unknown	data * data ≤ 9223372036854775807
+FRAMAC_SHARE/libc	inttypes.h	imaxabs	precondition	Unknown	abs_representable: (long long)(-c) ≢ c

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__int64_t_min_sub_61a.c	CWE191_Integer_Underflow__int64_t_min_sub_61_bad	signed_overflow	Invalid or unreachable	-9223372036854775808 ≤ data - (long long)1

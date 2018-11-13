@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE127_Buffer_Underread__char_alloca_loop_53d.c	CWE127_Buffer_Underread__char_alloca_loop_53d_badSink	mem_access	Invalid or unreachable	\valid_read(data + i)

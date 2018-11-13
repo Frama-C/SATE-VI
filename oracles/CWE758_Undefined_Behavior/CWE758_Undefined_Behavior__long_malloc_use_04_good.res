@@ -1,0 +1,1 @@
+CWE758_Undefined_Behavior__long_malloc_use_04_good: ok

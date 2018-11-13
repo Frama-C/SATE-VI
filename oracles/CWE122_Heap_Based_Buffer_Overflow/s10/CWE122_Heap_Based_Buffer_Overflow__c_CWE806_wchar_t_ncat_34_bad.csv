@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+FRAMAC_SHARE/libc	wchar.c	wcsncat	mem_access	Unknown	\valid(dest + (unsigned int)(dest_len + i))

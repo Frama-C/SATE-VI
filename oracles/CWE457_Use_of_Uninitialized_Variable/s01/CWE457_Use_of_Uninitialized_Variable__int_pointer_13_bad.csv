@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE457_Use_of_Uninitialized_Variable__int_pointer_13.c	CWE457_Use_of_Uninitialized_Variable__int_pointer_13_bad	initialization	Invalid or unreachable	\initialized(&data)

@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+FRAMAC_SHARE/libc	wchar.c	wcscat	precondition of wcslen	Unknown	valid_string_s: valid_read_wstring(str)
+FRAMAC_SHARE/libc	wchar.h	wcslen	precondition	Unknown	valid_string_s: valid_read_wstring(str)

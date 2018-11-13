@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+TESTCASESUPPORT_DIR	io.c	printLongLine	initialization	Invalid or unreachable	\initialized(&longNumber)

@@ -1,0 +1,1 @@
+CWE457_Use_of_Uninitialized_Variable__int_07_bad: ok

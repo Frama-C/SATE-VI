@@ -1,0 +1,1 @@
+CWE127_Buffer_Underread__CWE839_fgets_63_good: ok

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__int_min_postdec_68b.c	CWE191_Integer_Underflow__int_min_postdec_68b_badSink	signed_overflow	Invalid or unreachable	-2147483648 ≤ data - 1

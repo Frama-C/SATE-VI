@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__short_rand_square_51b.c	CWE190_Integer_Overflow__short_rand_square_51b_badSink	signed_downcast	Unknown	(int)data * (int)data ≤ 32767

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE127_Buffer_Underread__CWE839_fscanf_34.c	CWE127_Buffer_Underread__CWE839_fscanf_34_bad	index_bound	Unknown	0 ≤ data_0

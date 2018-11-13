@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE122_Heap_Based_Buffer_Overflow__sizeof_double_21.c	badSource	mem_access	Invalid or unreachable	\valid(data)

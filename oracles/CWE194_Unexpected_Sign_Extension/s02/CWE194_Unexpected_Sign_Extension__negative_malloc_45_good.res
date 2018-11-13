@@ -1,0 +1,1 @@
+CWE194_Unexpected_Sign_Extension__negative_malloc_45_good: ok

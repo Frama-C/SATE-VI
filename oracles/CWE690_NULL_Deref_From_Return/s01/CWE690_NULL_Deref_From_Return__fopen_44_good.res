@@ -1,0 +1,1 @@
+CWE690_NULL_Deref_From_Return__fopen_44_good: ok

@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int_connect_socket_square_01.c	CWE190_Integer_Overflow__int_connect_socket_square_01_bad	signed_overflow	Unknown	-2147483648 ≤ data * data
+.	CWE190_Integer_Overflow__int_connect_socket_square_01.c	CWE190_Integer_Overflow__int_connect_socket_square_01_bad	signed_overflow	Unknown	data * data ≤ 2147483647

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE124_Buffer_Underwrite__CWE839_connect_socket_45.c	badSink	index_bound	Unknown	0 ≤ data

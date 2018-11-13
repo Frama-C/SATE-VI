@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__unsigned_int_rand_sub_66b.c	CWE191_Integer_Underflow__unsigned_int_rand_sub_66b_badSink	unsigned_overflow	Unknown	0 ≤ data - (unsigned int)1

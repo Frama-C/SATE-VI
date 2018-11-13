@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__int_connect_socket_sub_11.c	CWE191_Integer_Underflow__int_connect_socket_sub_11_bad	signed_overflow	Unknown	-2147483648 ≤ data - 1

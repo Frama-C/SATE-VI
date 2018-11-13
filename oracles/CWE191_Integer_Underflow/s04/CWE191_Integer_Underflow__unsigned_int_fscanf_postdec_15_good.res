@@ -1,0 +1,1 @@
+CWE191_Integer_Underflow__unsigned_int_fscanf_postdec_15_good: ok

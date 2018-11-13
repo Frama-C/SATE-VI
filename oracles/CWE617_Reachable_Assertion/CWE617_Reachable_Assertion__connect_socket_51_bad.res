@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__connect_socket_51_bad: ok

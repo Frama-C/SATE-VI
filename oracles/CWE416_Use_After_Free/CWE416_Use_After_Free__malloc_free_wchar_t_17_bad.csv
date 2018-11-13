@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE416_Use_After_Free__malloc_free_wchar_t_17.c	CWE416_Use_After_Free__malloc_free_wchar_t_17_bad	dangling_pointer	Invalid or unreachable	¬\dangling(&data)

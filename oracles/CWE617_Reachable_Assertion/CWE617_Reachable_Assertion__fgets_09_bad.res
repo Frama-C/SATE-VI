@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__fgets_09_bad: ok

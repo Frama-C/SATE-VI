@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__unsigned_int_rand_predec_31.c	CWE191_Integer_Underflow__unsigned_int_rand_predec_31_bad	unsigned_overflow	Unknown	0 ≤ data_0 - 1

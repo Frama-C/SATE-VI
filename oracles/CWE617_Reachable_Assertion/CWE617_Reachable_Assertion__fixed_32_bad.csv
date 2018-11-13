@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE617_Reachable_Assertion__fixed_32.c	CWE617_Reachable_Assertion__fixed_32_bad	precondition of __FC_assert	Invalid or unreachable	nonnull_c: c ≢ 0
+FRAMAC_SHARE/libc	assert.h	__FC_assert	precondition	Invalid or unreachable	nonnull_c: c ≢ 0

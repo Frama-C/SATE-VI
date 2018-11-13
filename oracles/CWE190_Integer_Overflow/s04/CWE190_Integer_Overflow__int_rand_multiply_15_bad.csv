@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int_rand_multiply_15.c	CWE190_Integer_Overflow__int_rand_multiply_15_bad	signed_overflow	Unknown	data * 2 ≤ 2147483647

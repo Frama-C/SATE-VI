@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__int64_t_fscanf_multiply_07.c	CWE191_Integer_Underflow__int64_t_fscanf_multiply_07_bad	signed_overflow	Unknown	-9223372036854775808 ≤ data * (long long)2

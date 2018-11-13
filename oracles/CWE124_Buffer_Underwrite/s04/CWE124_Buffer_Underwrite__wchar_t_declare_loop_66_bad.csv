@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE124_Buffer_Underwrite__wchar_t_declare_loop_66b.c	CWE124_Buffer_Underwrite__wchar_t_declare_loop_66b_badSink	mem_access	Invalid or unreachable	\valid(data + i)

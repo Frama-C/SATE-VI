@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE197_Numeric_Truncation_Error__int_large_to_char_64b.c	CWE197_Numeric_Truncation_Error__int_large_to_char_64b_badSink	signed_downcast	Invalid or unreachable	data ≤ 127

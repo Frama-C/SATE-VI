@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__char_min_predec_52c.c	CWE191_Integer_Underflow__char_min_predec_52c_badSink	signed_downcast	Invalid or unreachable	-128 ≤ (int)data - 1

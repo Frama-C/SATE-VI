@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE123_Write_What_Where_Condition__fgets_63b.c	CWE123_Write_What_Where_Condition__fgets_63b_badSink	mem_access	Unknown	\valid(&linkedListPrev_0->next)
+.	CWE123_Write_What_Where_Condition__fgets_63b.c	CWE123_Write_What_Where_Condition__fgets_63b_badSink	mem_access	Unknown	\valid(&linkedListNext_0->prev)

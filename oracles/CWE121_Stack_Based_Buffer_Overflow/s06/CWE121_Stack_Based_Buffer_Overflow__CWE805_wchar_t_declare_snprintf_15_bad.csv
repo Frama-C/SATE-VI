@@ -1,0 +1,5 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE805_wchar_t_declare_snprintf_15.c	CWE121_Stack_Based_Buffer_Overflow__CWE805_wchar_t_declare_snprintf_15_bad	precondition of swprintf_va_1	Unknown	\valid(ws + (0 .. n - 1)) ∨ \valid(ws + (0 .. wformat_length(format) - 1))
+.	CWE121_Stack_Based_Buffer_Overflow__CWE805_wchar_t_declare_snprintf_15.c	swprintf_va_1	precondition	Unknown	\valid(ws + (0 .. n - 1)) ∨ \valid(ws + (0 .. wformat_length(format) - 1))
+TESTCASESUPPORT_DIR	io.c	printWLine	precondition of wprintf_va_1	Unknown	valid_read_wstring(param0)
+TESTCASESUPPORT_DIR	io.c	wprintf_va_1	precondition	Unknown	valid_read_wstring(param0)

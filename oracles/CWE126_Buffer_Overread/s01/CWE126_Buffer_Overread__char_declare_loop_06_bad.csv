@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE126_Buffer_Overread__char_declare_loop_06.c	CWE126_Buffer_Overread__char_declare_loop_06_bad	mem_access	Unknown	\valid_read(data + i)

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE196_Unsigned_to_Signed_Conversion_Error__basic_01.c	CWE196_Unsigned_to_Signed_Conversion_Error__basic_01_bad	signed_downcast	Unknown	intUnsigned ≤ 2147483647

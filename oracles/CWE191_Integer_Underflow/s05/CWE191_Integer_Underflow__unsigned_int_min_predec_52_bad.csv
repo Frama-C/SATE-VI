@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__unsigned_int_min_predec_52c.c	CWE191_Integer_Underflow__unsigned_int_min_predec_52c_badSink	unsigned_overflow	Invalid or unreachable	0 ≤ data - 1

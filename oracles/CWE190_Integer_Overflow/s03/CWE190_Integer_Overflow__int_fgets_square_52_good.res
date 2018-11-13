@@ -1,0 +1,1 @@
+CWE190_Integer_Overflow__int_fgets_square_52_good: imprecise

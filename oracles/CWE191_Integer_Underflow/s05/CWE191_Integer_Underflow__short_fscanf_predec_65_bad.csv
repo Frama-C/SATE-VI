@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__short_fscanf_predec_65b.c	CWE191_Integer_Underflow__short_fscanf_predec_65b_badSink	signed_downcast	Unknown	-32768 ≤ (int)data - 1

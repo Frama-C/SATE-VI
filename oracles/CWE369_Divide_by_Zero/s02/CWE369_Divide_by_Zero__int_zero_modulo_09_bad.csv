@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__int_zero_modulo_09.c	CWE369_Divide_by_Zero__int_zero_modulo_09_bad	division_by_zero	Invalid or unreachable	data ≢ 0

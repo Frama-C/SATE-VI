@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__rand_07_good: ok

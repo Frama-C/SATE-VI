@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+TESTCASESUPPORT_DIR	io.c	printLine	precondition of printf_va_1	Invalid or unreachable	valid_read_string(param0)
+TESTCASESUPPORT_DIR	io.c	printf_va_1	precondition	Invalid or unreachable	valid_read_string(param0)

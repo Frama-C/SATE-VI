@@ -1,0 +1,1 @@
+CWE190_Integer_Overflow__int_connect_socket_multiply_66_good: ok

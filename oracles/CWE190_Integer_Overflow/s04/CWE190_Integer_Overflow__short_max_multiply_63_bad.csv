@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__short_max_multiply_63b.c	CWE190_Integer_Overflow__short_max_multiply_63b_badSink	signed_downcast	Invalid or unreachable	(int)data * 2 ≤ 32767

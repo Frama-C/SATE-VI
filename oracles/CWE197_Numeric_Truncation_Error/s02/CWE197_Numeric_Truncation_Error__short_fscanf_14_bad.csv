@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE197_Numeric_Truncation_Error__short_fscanf_14.c	CWE197_Numeric_Truncation_Error__short_fscanf_14_bad	signed_downcast	Unknown	-128 ≤ data
+.	CWE197_Numeric_Truncation_Error__short_fscanf_14.c	CWE197_Numeric_Truncation_Error__short_fscanf_14_bad	signed_downcast	Unknown	data ≤ 127

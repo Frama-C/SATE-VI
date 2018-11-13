@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__unsigned_int_rand_postinc_45.c	badSink	unsigned_overflow	Unknown	data + 1 ≤ 4294967295

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int64_t_rand_multiply_12.c	CWE190_Integer_Overflow__int64_t_rand_multiply_12_bad	signed_overflow	Unknown	data * (long long)2 ≤ 9223372036854775807

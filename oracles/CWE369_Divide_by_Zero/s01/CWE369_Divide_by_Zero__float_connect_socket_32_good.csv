@@ -1,0 +1,4 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__float_connect_socket_32.c	goodB2G	float_to_int	Unknown	-2147483649 < 100.0 / (double)data_1
+.	CWE369_Divide_by_Zero__float_connect_socket_32.c	goodB2G	float_to_int	Unknown	100.0 / (double)data_1 < 2147483648
+.	CWE369_Divide_by_Zero__float_connect_socket_32.c	goodB2G	is_nan_or_infinite	Unknown	\is_finite((double)(100.0 / (double)data_1))

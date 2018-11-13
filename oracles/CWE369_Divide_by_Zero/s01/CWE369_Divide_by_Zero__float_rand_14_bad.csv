@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__float_rand_14.c	CWE369_Divide_by_Zero__float_rand_14_bad	float_to_int	Unknown	100.0 / (double)data < 2147483648
+.	CWE369_Divide_by_Zero__float_rand_14.c	CWE369_Divide_by_Zero__float_rand_14_bad	is_nan_or_infinite	Unknown	\is_finite((double)(100.0 / (double)data))

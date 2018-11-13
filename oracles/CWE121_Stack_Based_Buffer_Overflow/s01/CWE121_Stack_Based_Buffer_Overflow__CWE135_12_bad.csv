@@ -1,0 +1,6 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE135_12.c	CWE121_Stack_Based_Buffer_Overflow__CWE135_12_bad	precondition of wcslen	Unknown	valid_string_s: valid_read_wstring(str)
+FRAMAC_SHARE/libc	wchar.c	wcscpy	mem_access	Unknown	\valid_read(src + i)
+FRAMAC_SHARE/libc	wchar.c	wcscpy	mem_access	Unknown	\valid(dest + i)
+FRAMAC_SHARE/libc	wchar.c	wcscpy	mem_access	Unknown	\valid(dest + i)
+FRAMAC_SHARE/libc	wchar.h	wcslen	precondition	Unknown	valid_string_s: valid_read_wstring(str)

@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__zero_09_good: ok

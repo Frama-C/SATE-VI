@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__fixed_18_good: ok

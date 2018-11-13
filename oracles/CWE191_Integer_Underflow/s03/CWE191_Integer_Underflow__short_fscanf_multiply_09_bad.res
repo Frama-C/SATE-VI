@@ -1,0 +1,1 @@
+CWE191_Integer_Underflow__short_fscanf_multiply_09_bad: ok

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__float_zero_12.c	CWE369_Divide_by_Zero__float_zero_12_bad	is_nan_or_infinite	Unknown	\is_finite((double)(100.0 / (double)data))

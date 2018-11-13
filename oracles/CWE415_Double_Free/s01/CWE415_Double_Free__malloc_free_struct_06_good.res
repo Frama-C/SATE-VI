@@ -1,0 +1,1 @@
+CWE415_Double_Free__malloc_free_struct_06_good: ok

@@ -1,0 +1,1 @@
+CWE758_Undefined_Behavior__long_alloca_use_03_good: ok

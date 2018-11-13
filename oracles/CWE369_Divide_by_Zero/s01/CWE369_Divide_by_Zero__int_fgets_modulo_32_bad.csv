@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__int_fgets_modulo_32.c	CWE369_Divide_by_Zero__int_fgets_modulo_32_bad	division_by_zero	Unknown	data_1 ≢ 0

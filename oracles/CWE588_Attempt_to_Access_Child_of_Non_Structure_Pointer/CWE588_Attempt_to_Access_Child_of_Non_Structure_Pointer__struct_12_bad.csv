@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+TESTCASESUPPORT_DIR	io.c	printStructLine	mem_access	Unknown	\valid_read(&structTwoIntsStruct->intTwo)

@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE197_Numeric_Truncation_Error__int_fgets_to_char_08.c	CWE197_Numeric_Truncation_Error__int_fgets_to_char_08_bad	signed_downcast	Unknown	-128 ≤ data
+.	CWE197_Numeric_Truncation_Error__int_fgets_to_char_08.c	CWE197_Numeric_Truncation_Error__int_fgets_to_char_08_bad	signed_downcast	Unknown	data ≤ 127

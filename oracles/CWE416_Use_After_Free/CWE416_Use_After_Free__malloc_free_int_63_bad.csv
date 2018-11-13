@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE416_Use_After_Free__malloc_free_int_63b.c	CWE416_Use_After_Free__malloc_free_int_63b_badSink	dangling_pointer	Invalid or unreachable	¬\dangling(&data)

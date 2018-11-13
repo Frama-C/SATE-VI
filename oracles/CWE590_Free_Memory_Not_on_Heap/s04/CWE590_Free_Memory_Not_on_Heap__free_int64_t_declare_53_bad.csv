@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE590_Free_Memory_Not_on_Heap__free_int64_t_declare_53d.c	CWE590_Free_Memory_Not_on_Heap__free_int64_t_declare_53d_badSink	dangling_pointer	Invalid or unreachable	¬\dangling(&data)

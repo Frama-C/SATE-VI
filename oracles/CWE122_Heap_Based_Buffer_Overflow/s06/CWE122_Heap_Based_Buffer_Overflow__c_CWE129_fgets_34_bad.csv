@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_34.c	CWE122_Heap_Based_Buffer_Overflow__c_CWE129_fgets_34_bad	mem_access	Unknown	\valid(buffer + data_0)

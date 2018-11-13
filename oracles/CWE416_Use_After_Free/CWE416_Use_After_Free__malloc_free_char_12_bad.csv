@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE416_Use_After_Free__malloc_free_char_12.c	CWE416_Use_After_Free__malloc_free_char_12_bad	dangling_pointer	Unknown	¬\dangling(&data)

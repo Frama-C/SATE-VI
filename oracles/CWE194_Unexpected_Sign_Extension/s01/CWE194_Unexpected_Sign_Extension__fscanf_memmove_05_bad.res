@@ -1,0 +1,1 @@
+CWE194_Unexpected_Sign_Extension__fscanf_memmove_05_bad: ok

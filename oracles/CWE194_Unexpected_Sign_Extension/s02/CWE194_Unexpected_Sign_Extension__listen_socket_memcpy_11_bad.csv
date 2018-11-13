@@ -1,0 +1,8 @@
+directory	file	function	property kind	status	property
+.	CWE194_Unexpected_Sign_Extension__listen_socket_memcpy_11.c	CWE194_Unexpected_Sign_Extension__listen_socket_memcpy_11_bad	precondition of memcpy	Unknown	valid_dest: valid_or_empty(dest, n)
+.	CWE194_Unexpected_Sign_Extension__listen_socket_memcpy_11.c	CWE194_Unexpected_Sign_Extension__listen_socket_memcpy_11_bad	precondition of memcpy	Unknown	valid_src: valid_read_or_empty(src, n)
+.	CWE194_Unexpected_Sign_Extension__listen_socket_memcpy_11.c	CWE194_Unexpected_Sign_Extension__listen_socket_memcpy_11_bad	index_bound	Unknown	0 ≤ data
+FRAMAC_SHARE/libc	string.h	memcpy	precondition	Unknown	valid_dest: valid_or_empty(dest, n)
+FRAMAC_SHARE/libc	string.h	memcpy	precondition	Unknown	valid_src: valid_read_or_empty(src, n)
+TESTCASESUPPORT_DIR	io.c	printLine	precondition of printf_va_1	Unknown	valid_read_string(param0)
+TESTCASESUPPORT_DIR	io.c	printf_va_1	precondition	Unknown	valid_read_string(param0)

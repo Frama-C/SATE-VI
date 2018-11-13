@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__unsigned_int_max_preinc_41.c	badSink	unsigned_overflow	Invalid or unreachable	data + 1 ≤ 4294967295

@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE194_Unexpected_Sign_Extension__connect_socket_strncpy_41.c	CWE194_Unexpected_Sign_Extension__connect_socket_strncpy_41_badSink	index_bound	Unknown	0 ≤ data
+FRAMAC_SHARE/libc	string.c	strncpy	mem_access	Unknown	\valid(dest + i)

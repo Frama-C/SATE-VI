@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE843_Type_Confusion__char_08.c	CWE843_Type_Confusion__char_08_bad	mem_access	Invalid or unreachable	\valid_read((int *)data)

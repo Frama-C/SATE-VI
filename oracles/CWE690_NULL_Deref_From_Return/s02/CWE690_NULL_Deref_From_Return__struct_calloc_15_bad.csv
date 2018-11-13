@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE690_NULL_Deref_From_Return__struct_calloc_15.c	CWE690_NULL_Deref_From_Return__struct_calloc_15_bad	mem_access	Unknown	\valid(&(data + 0)->intOne)

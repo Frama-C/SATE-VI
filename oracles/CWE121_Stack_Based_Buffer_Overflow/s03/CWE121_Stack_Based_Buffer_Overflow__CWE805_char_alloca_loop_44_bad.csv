@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE805_char_alloca_loop_44.c	badSink	mem_access	Unknown	\valid(data + i)

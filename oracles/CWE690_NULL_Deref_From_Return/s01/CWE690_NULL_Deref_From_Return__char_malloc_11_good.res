@@ -1,0 +1,1 @@
+CWE690_NULL_Deref_From_Return__char_malloc_11_good: ok

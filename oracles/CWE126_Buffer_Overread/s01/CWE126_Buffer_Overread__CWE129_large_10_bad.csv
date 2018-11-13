@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE126_Buffer_Overread__CWE129_large_10.c	CWE126_Buffer_Overread__CWE129_large_10_bad	index_bound	Invalid or unreachable	data < 10

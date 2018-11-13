@@ -1,0 +1,1 @@
+CWE843_Type_Confusion__char_17_good: ok

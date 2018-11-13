@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE126_Buffer_Overread__CWE129_fgets_03.c	CWE126_Buffer_Overread__CWE129_fgets_03_bad	index_bound	Unknown	data < 10

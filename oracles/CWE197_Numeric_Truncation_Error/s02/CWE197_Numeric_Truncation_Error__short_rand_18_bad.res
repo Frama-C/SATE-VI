@@ -1,0 +1,1 @@
+CWE197_Numeric_Truncation_Error__short_rand_18_bad: ok

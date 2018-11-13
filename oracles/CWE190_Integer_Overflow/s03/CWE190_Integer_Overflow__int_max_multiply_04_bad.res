@@ -1,0 +1,1 @@
+CWE190_Integer_Overflow__int_max_multiply_04_bad: ok

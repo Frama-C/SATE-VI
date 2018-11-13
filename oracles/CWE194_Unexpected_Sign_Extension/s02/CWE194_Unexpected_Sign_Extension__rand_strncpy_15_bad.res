@@ -1,0 +1,1 @@
+CWE194_Unexpected_Sign_Extension__rand_strncpy_15_bad: ok

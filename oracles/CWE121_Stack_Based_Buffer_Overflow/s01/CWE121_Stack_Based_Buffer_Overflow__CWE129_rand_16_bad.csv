@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE129_rand_16.c	CWE121_Stack_Based_Buffer_Overflow__CWE129_rand_16_bad	index_bound	Unknown	data < 10

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__char_rand_sub_21.c	badSink	signed_downcast	Unknown	-128 ≤ (int)data - 1

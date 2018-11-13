@@ -1,0 +1,1 @@
+CWE127_Buffer_Underread__char_alloca_loop_12_good: ok

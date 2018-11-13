@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE123_Write_What_Where_Condition__listen_socket_41.c	CWE123_Write_What_Where_Condition__listen_socket_41_badSink	mem_access	Unknown	\valid(&linkedListPrev->next)
+.	CWE123_Write_What_Where_Condition__listen_socket_41.c	CWE123_Write_What_Where_Condition__listen_socket_41_badSink	mem_access	Unknown	\valid(&linkedListNext->prev)

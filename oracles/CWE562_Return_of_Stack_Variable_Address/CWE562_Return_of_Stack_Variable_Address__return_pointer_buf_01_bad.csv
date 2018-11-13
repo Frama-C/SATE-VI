@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01.c	CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01_bad	dangling_pointer	Invalid or unreachable	¬\dangling(&tmp)

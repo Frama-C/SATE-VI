@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__fgets_13_good: ok

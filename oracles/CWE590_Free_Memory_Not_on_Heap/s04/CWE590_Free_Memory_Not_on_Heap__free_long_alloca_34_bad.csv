@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE590_Free_Memory_Not_on_Heap__free_long_alloca_34.c	CWE590_Free_Memory_Not_on_Heap__free_long_alloca_34_bad	precondition of free	Invalid or unreachable	freeable: p ≡ \null ∨ \freeable(p)
+FRAMAC_SHARE/libc	stdlib.h	free	precondition	Invalid or unreachable	freeable: p ≡ \null ∨ \freeable(p)

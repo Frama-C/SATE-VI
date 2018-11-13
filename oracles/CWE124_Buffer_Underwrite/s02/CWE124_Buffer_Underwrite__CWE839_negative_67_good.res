@@ -1,0 +1,1 @@
+CWE124_Buffer_Underwrite__CWE839_negative_67_good: ok

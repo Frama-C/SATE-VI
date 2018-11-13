@@ -1,0 +1,1 @@
+CWE665_Improper_Initialization__char_ncat_16_good: ok

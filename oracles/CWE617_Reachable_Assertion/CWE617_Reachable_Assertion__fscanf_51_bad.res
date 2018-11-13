@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__fscanf_51_bad: ok

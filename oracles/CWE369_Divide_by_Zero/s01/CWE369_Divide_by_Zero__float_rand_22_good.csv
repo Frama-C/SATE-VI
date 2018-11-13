@@ -1,0 +1,5 @@
+directory	file	function	property kind	status	property
+.	CWE369_Divide_by_Zero__float_rand_22b.c	CWE369_Divide_by_Zero__float_rand_22_goodB2G1Sink	float_to_int	Unknown	100.0 / (double)data < 2147483648
+.	CWE369_Divide_by_Zero__float_rand_22b.c	CWE369_Divide_by_Zero__float_rand_22_goodB2G1Sink	is_nan_or_infinite	Unknown	\is_finite((double)(100.0 / (double)data))
+.	CWE369_Divide_by_Zero__float_rand_22b.c	CWE369_Divide_by_Zero__float_rand_22_goodB2G2Sink	float_to_int	Unknown	100.0 / (double)data < 2147483648
+.	CWE369_Divide_by_Zero__float_rand_22b.c	CWE369_Divide_by_Zero__float_rand_22_goodB2G2Sink	is_nan_or_infinite	Unknown	\is_finite((double)(100.0 / (double)data))

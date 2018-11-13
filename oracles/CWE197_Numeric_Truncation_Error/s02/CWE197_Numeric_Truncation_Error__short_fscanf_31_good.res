@@ -1,0 +1,1 @@
+CWE197_Numeric_Truncation_Error__short_fscanf_31_good: ok

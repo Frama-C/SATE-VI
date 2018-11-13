@@ -1,0 +1,4 @@
+directory	file	function	property kind	status	property
+.	CWE195_Signed_to_Unsigned_Conversion_Error__negative_malloc_12.c	CWE195_Signed_to_Unsigned_Conversion_Error__negative_malloc_12_bad	precondition of memset	Unknown	valid_s: valid_or_empty(s, n)
+.	CWE195_Signed_to_Unsigned_Conversion_Error__negative_malloc_12.c	CWE195_Signed_to_Unsigned_Conversion_Error__negative_malloc_12_bad	mem_access	Unknown	\valid(dataBuffer + (int)(data - 1))
+FRAMAC_SHARE/libc	string.h	memset	precondition	Unknown	valid_s: valid_or_empty(s, n)

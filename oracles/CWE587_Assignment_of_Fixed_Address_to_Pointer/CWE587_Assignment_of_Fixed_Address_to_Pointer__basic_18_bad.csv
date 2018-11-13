@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE587_Assignment_of_Fixed_Address_to_Pointer__basic_18.c	CWE587_Assignment_of_Fixed_Address_to_Pointer__basic_18_bad	mem_access	Invalid or unreachable	\valid_read(charPointer)

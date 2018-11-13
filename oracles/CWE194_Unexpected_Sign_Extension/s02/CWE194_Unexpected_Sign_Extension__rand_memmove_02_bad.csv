@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE194_Unexpected_Sign_Extension__rand_memmove_02.c	CWE194_Unexpected_Sign_Extension__rand_memmove_02_bad	precondition of memmove	Unknown	valid_dest: valid_or_empty(dest, n)
+FRAMAC_SHARE/libc	string.h	memmove	precondition	Unknown	valid_dest: valid_or_empty(dest, n)

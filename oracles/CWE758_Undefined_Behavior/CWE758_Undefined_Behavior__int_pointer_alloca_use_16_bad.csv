@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE758_Undefined_Behavior__int_pointer_alloca_use_16.c	CWE758_Undefined_Behavior__int_pointer_alloca_use_16_bad	initialization	Invalid or unreachable	\initialized(&data)

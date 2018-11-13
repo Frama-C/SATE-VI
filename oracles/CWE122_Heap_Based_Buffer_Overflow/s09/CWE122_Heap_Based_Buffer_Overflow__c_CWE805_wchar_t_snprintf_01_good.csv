@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+TESTCASESUPPORT_DIR	io.c	printWLine	precondition of wprintf_va_1	Unknown	valid_read_wstring(param0)
+TESTCASESUPPORT_DIR	io.c	wprintf_va_1	precondition	Unknown	valid_read_wstring(param0)

@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE806_char_alloca_snprintf_64b.c	CWE121_Stack_Based_Buffer_Overflow__CWE806_char_alloca_snprintf_64b_badSink	precondition of snprintf_va_1	Unknown	\valid(s + (0 .. n - 1)) ∨ \valid(s + (0 .. format_length(format) - 1))
+.	CWE121_Stack_Based_Buffer_Overflow__CWE806_char_alloca_snprintf_64b.c	snprintf_va_1	precondition	Unknown	\valid(s + (0 .. n - 1)) ∨ \valid(s + (0 .. format_length(format) - 1))

@@ -1,0 +1,1 @@
+CWE562_Return_of_Stack_Variable_Address__return_pointer_buf_01_good: ok

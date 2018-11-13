@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE124_Buffer_Underwrite__malloc_char_loop_05.c	CWE124_Buffer_Underwrite__malloc_char_loop_05_bad	mem_access	Invalid or unreachable	\valid(data + i)

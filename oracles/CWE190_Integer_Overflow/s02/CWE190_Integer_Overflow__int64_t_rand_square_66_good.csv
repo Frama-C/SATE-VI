@@ -1,0 +1,4 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int64_t_rand_square_66b.c	CWE190_Integer_Overflow__int64_t_rand_square_66b_goodB2GSink	precondition of imaxabs	Unknown	abs_representable: (long long)(-c) ≢ c
+.	CWE190_Integer_Overflow__int64_t_rand_square_66b.c	CWE190_Integer_Overflow__int64_t_rand_square_66b_goodB2GSink	signed_overflow	Unknown	data * data ≤ 9223372036854775807
+FRAMAC_SHARE/libc	inttypes.h	imaxabs	precondition	Unknown	abs_representable: (long long)(-c) ≢ c

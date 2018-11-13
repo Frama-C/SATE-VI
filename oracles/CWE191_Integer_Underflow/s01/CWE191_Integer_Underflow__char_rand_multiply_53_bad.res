@@ -1,0 +1,1 @@
+CWE191_Integer_Underflow__char_rand_multiply_53_bad: ok

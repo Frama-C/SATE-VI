@@ -1,0 +1,1 @@
+CWE191_Integer_Underflow__short_rand_predec_21_bad: ok

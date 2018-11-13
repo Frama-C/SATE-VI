@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE121_Stack_Based_Buffer_Overflow__CWE806_char_alloca_loop_17.c	CWE121_Stack_Based_Buffer_Overflow__CWE806_char_alloca_loop_17_bad	index_bound	Unknown	i_0 < 50

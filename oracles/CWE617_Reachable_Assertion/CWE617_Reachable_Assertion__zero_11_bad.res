@@ -1,0 +1,1 @@
+CWE617_Reachable_Assertion__zero_11_bad: ok

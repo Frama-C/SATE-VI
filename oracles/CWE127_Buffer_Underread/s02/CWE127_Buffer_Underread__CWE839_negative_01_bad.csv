@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE127_Buffer_Underread__CWE839_negative_01.c	CWE127_Buffer_Underread__CWE839_negative_01_bad	index_bound	Invalid or unreachable	0 ≤ data

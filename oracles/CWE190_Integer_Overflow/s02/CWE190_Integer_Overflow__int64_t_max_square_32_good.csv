@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int64_t_max_square_32.c	goodB2G	signed_overflow	Invalid or unreachable	data_1 * data_1 ≤ 9223372036854775807

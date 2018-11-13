@@ -1,0 +1,1 @@
+CWE190_Integer_Overflow__int_fscanf_square_09_bad: ok

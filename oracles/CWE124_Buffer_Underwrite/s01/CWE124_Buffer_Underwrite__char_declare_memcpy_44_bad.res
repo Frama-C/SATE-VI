@@ -1,0 +1,1 @@
+CWE124_Buffer_Underwrite__char_declare_memcpy_44_bad: ok

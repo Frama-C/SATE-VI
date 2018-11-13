@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__char_max_add_54e.c	CWE190_Integer_Overflow__char_max_add_54e_badSink	signed_downcast	Invalid or unreachable	(int)data + 1 ≤ 127

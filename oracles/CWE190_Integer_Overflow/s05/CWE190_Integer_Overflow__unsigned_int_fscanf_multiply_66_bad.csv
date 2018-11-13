@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__unsigned_int_fscanf_multiply_66b.c	CWE190_Integer_Overflow__unsigned_int_fscanf_multiply_66b_badSink	unsigned_overflow	Unknown	data * (unsigned int)2 ≤ 4294967295

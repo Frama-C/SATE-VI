@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int_fscanf_postinc_64b.c	CWE190_Integer_Overflow__int_fscanf_postinc_64b_badSink	signed_overflow	Unknown	data + 1 ≤ 2147483647

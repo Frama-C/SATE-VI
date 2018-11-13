@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE195_Signed_to_Unsigned_Conversion_Error__negative_malloc_51b.c	CWE195_Signed_to_Unsigned_Conversion_Error__negative_malloc_51b_badSink	mem_access	Invalid or unreachable	\valid(dataBuffer + (int)(data - 1))

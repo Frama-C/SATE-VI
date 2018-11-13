@@ -1,0 +1,5 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__char_fscanf_square_04.c	goodB2G1	signed_downcast	Unknown	(int)data * (int)data ≤ 127
+.	CWE190_Integer_Overflow__char_fscanf_square_04.c	goodB2G1	signed_downcast	Unknown	-128 ≤ (int)data * (int)data
+.	CWE190_Integer_Overflow__char_fscanf_square_04.c	goodB2G2	signed_downcast	Unknown	(int)data * (int)data ≤ 127
+.	CWE190_Integer_Overflow__char_fscanf_square_04.c	goodB2G2	signed_downcast	Unknown	-128 ≤ (int)data * (int)data

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__unsigned_int_fscanf_square_05.c	CWE190_Integer_Overflow__unsigned_int_fscanf_square_05_bad	unsigned_overflow	Unknown	data * data ≤ 4294967295

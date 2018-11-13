@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int_fgets_multiply_61a.c	CWE190_Integer_Overflow__int_fgets_multiply_61_bad	signed_overflow	Unknown	data * 2 ≤ 2147483647

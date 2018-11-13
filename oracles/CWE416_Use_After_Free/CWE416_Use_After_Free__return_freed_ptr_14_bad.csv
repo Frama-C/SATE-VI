@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE416_Use_After_Free__return_freed_ptr_14.c	CWE416_Use_After_Free__return_freed_ptr_14_bad	dangling_pointer	Invalid or unreachable	¬\dangling(&reversedString)

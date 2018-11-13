@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE843_Type_Confusion__short_12.c	CWE843_Type_Confusion__short_12_bad	dangling_pointer	Unknown	¬\dangling(&data)
+.	CWE843_Type_Confusion__short_12.c	CWE843_Type_Confusion__short_12_bad	mem_access	Unknown	\valid_read((int *)data)

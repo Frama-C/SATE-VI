@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__int_max_square_51b.c	CWE190_Integer_Overflow__int_max_square_51b_badSink	signed_overflow	Invalid or unreachable	data * data ≤ 2147483647

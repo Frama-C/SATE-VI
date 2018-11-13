@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE191_Integer_Underflow__int64_t_rand_postdec_22b.c	CWE191_Integer_Underflow__int64_t_rand_postdec_22_badSink	signed_overflow	Unknown	-9223372036854775808 ≤ data - (long long)1

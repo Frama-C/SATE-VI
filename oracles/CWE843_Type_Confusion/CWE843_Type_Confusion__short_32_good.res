@@ -1,0 +1,1 @@
+CWE843_Type_Confusion__short_32_good: ok

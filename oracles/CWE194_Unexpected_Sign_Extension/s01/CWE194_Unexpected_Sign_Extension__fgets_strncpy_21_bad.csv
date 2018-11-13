@@ -1,0 +1,5 @@
+directory	file	function	property kind	status	property
+.	CWE194_Unexpected_Sign_Extension__fgets_strncpy_21.c	badSource	signed_downcast	Unknown	-32768 ≤ tmp
+.	CWE194_Unexpected_Sign_Extension__fgets_strncpy_21.c	badSource	signed_downcast	Unknown	tmp ≤ 32767
+.	CWE194_Unexpected_Sign_Extension__fgets_strncpy_21.c	CWE194_Unexpected_Sign_Extension__fgets_strncpy_21_bad	index_bound	Unknown	0 ≤ data
+FRAMAC_SHARE/libc	string.c	strncpy	mem_access	Unknown	\valid(dest + i)

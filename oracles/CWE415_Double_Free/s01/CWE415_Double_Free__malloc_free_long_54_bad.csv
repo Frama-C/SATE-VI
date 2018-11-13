@@ -1,0 +1,3 @@
+directory	file	function	property kind	status	property
+.	CWE415_Double_Free__malloc_free_long_54e.c	CWE415_Double_Free__malloc_free_long_54e_badSink	dangling_pointer	Invalid or unreachable	¬\dangling(&data)
+FRAMAC_SHARE/libc	stdlib.h	free	precondition	Unknown	freeable: p ≡ \null ∨ \freeable(p)

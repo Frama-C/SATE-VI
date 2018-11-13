@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+FRAMAC_SHARE/libc	wchar.c	wcsncpy	mem_access	Invalid or unreachable	\valid(dest + i)

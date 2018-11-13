@@ -1,0 +1,1 @@
+CWE758_Undefined_Behavior__no_return_01_bad: ok

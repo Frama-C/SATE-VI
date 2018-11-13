@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE469_Use_of_Pointer_Subtraction_to_Determine_Size__char_14.c	CWE469_Use_of_Pointer_Subtraction_to_Determine_Size__char_14_bad	differing_blocks	Invalid or unreachable	\base_addr(slashInString1) ≡ \base_addr((char *)string2)

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE690_NULL_Deref_From_Return__int64_t_malloc_44.c	badSink	mem_access	Unknown	\valid(data + 0)

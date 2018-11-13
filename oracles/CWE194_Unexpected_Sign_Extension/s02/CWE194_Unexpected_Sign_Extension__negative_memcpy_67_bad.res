@@ -1,0 +1,1 @@
+CWE194_Unexpected_Sign_Extension__negative_memcpy_67_bad: ok

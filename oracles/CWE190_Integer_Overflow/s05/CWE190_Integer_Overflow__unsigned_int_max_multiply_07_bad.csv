@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE190_Integer_Overflow__unsigned_int_max_multiply_07.c	CWE190_Integer_Overflow__unsigned_int_max_multiply_07_bad	unsigned_overflow	Invalid or unreachable	data * (unsigned int)2 ≤ 4294967295

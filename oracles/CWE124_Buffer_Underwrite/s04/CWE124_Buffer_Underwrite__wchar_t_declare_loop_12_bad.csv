@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE124_Buffer_Underwrite__wchar_t_declare_loop_12.c	CWE124_Buffer_Underwrite__wchar_t_declare_loop_12_bad	mem_access	Unknown	\valid(data + i)

@@ -1,0 +1,1 @@
+CWE758_Undefined_Behavior__struct_alloca_use_17_bad: ok
