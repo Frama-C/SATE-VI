@@ -9,10 +9,13 @@ if [ $# -lt 1 ]; then
     exit 1
 fi
 
-if command -v gcut >/dev/null 2>/dev/null; then
-    CUT=gcut
-else
+# (for macOS) check if `cut` has option --complement (GNU extension);
+# otherwise try using `gcut`. Note: ffmpeg has a `gcut` binary which
+# may lead to errors.
+if echo -n "" | cut --complement -f1 >/dev/null 2>/dev/null; then
     CUT=cut
+else
+    CUT=gcut
 fi
 
 file="$@"
