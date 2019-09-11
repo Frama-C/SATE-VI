@@ -1,1 +1,0 @@
-CWE835_Infinite_Loop__do_true_01_bad: ok

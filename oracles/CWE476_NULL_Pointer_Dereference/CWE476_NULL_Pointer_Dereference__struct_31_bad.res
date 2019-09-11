@@ -1,0 +1,1 @@
+CWE476_NULL_Pointer_Dereference__struct_31_bad: ok

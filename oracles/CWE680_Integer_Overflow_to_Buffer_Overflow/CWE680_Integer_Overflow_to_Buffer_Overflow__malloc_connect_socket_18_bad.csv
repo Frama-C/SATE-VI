@@ -1,0 +1,5 @@
+directory	file	function	property kind	status	property
+.	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_connect_socket_18.c	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_connect_socket_18_bad	unsigned_overflow	Unknown	(unsigned int)data * sizeof(int) ≤ 4294967295
+.	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_connect_socket_18.c	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_connect_socket_18_bad	mem_access	Unknown	\valid(intPointer + i)
+.	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_connect_socket_18.c	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_connect_socket_18_bad	mem_access	Unknown	\valid_read(intPointer + 0)
+TESTCASESUPPORT_DIR	io.c	printIntLine	initialization	Unknown	\initialized(&intNumber)

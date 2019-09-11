@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE476_NULL_Pointer_Dereference__int64_t_32.c	CWE476_NULL_Pointer_Dereference__int64_t_32_bad	mem_access	Invalid or unreachable	\valid_read(data_1)

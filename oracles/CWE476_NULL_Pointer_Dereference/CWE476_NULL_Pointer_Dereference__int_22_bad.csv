@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE476_NULL_Pointer_Dereference__int_22b.c	CWE476_NULL_Pointer_Dereference__int_22_badSink	mem_access	Invalid or unreachable	\valid_read(data)

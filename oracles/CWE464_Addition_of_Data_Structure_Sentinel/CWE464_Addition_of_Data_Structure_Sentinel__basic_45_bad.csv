@@ -1,5 +1,0 @@
-directory	file	function	property kind	status	property
-.	CWE464_Addition_of_Data_Structure_Sentinel__basic_45.c	CWE464_Addition_of_Data_Structure_Sentinel__basic_45_bad	signed_downcast	Unknown	-128 ≤ tmp
-.	CWE464_Addition_of_Data_Structure_Sentinel__basic_45.c	CWE464_Addition_of_Data_Structure_Sentinel__basic_45_bad	signed_downcast	Unknown	tmp ≤ 127
-.	CWE464_Addition_of_Data_Structure_Sentinel__basic_45.c	CWE464_Addition_of_Data_Structure_Sentinel__basic_45_bad	signed_downcast	Unknown	-128 ≤ tmp_0
-.	CWE464_Addition_of_Data_Structure_Sentinel__basic_45.c	CWE464_Addition_of_Data_Structure_Sentinel__basic_45_bad	signed_downcast	Unknown	tmp_0 ≤ 127

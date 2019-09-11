@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE476_NULL_Pointer_Dereference__deref_after_check_08.c	CWE476_NULL_Pointer_Dereference__deref_after_check_08_bad	mem_access	Invalid or unreachable	\valid_read(intPointer)

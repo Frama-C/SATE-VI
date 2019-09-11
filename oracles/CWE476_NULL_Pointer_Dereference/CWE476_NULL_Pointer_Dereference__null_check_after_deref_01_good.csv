@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE476_NULL_Pointer_Dereference__null_check_after_deref_01.c	good1_0	mem_access	Unknown	\valid(intPointer)

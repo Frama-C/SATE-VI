@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_fixed_21.c	CWE680_Integer_Overflow_to_Buffer_Overflow__malloc_fixed_21_bad	unsigned_overflow	Invalid or unreachable	(unsigned int)data * sizeof(int) ≤ 4294967295

@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE476_NULL_Pointer_Dereference__struct_03.c	CWE476_NULL_Pointer_Dereference__struct_03_bad	mem_access	Invalid or unreachable	\valid_read(&data->intOne)

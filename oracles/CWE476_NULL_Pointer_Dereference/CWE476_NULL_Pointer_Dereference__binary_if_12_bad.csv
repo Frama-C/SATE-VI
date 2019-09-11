@@ -1,0 +1,2 @@
+directory	file	function	property kind	status	property
+.	CWE476_NULL_Pointer_Dereference__binary_if_12.c	CWE476_NULL_Pointer_Dereference__binary_if_12_bad	mem_access	Invalid or unreachable	\valid_read(&twoIntsStructPointer->intOne)

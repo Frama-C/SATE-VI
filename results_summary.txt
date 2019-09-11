@@ -121,12 +121,13 @@ CWE457_Use_of_Uninitialized_Variable/s01: 1080 tests
    1080  ok
 CWE457_Use_of_Uninitialized_Variable/s02: 40 tests
      40  ok
-CWE464_Addition_of_Data_Structure_Sentinel: 76 tests
-     76  ok
 CWE469_Use_of_Pointer_Subtraction_to_Determine_Size: 72 tests
      72  ok
 CWE475_Undefined_Behavior_for_Input_to_API: 72 tests
      72  ok
+CWE476_NULL_Pointer_Dereference: 540 tests
+     36  imprecise
+    504  ok
 CWE562_Return_of_Stack_Variable_Address: 4 tests
       4  ok
 CWE587_Assignment_of_Fixed_Address_to_Pointer: 36 tests
@@ -141,6 +142,8 @@ CWE617_Reachable_Assertion: 492 tests
     492  ok
 CWE665_Improper_Initialization: 304 tests
     304  ok
+CWE680_Integer_Overflow_to_Buffer_Overflow: 456 tests
+    456  ok
 CWE690_NULL_Deref_From_Return/s01: 912 tests
     912  ok
 CWE690_NULL_Deref_From_Return/s02: 532 tests
@@ -148,8 +151,5 @@ CWE690_NULL_Deref_From_Return/s02: 532 tests
 CWE758_Undefined_Behavior: 722 tests
       1  imprecise
     721  ok
-CWE835_Infinite_Loop: 12 tests
-      3  non-terminating (and no grepped alarms/warnings)
-      9  ok
 CWE843_Type_Confusion: 136 tests
     136  ok

@@ -1,0 +1,1 @@
+CWE476_NULL_Pointer_Dereference__char_14_bad: ok

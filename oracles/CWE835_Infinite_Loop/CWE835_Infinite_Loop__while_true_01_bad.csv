@@ -1,2 +1,0 @@
-directory	file	function	property kind	status	property
-.	CWE835_Infinite_Loop__while_true_01.c	CWE835_Infinite_Loop__while_true_01_bad	signed_overflow	Unknown	i + 1 ≤ 2147483647

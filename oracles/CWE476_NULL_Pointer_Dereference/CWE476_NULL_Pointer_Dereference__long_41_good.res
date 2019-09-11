@@ -1,0 +1,1 @@
+CWE476_NULL_Pointer_Dereference__long_41_good: ok
