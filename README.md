@@ -1,3 +1,7 @@
+#### Note: this repository migrated to [Frama-C's public Gitlab](https://git.frama-c.com/pub/sate-6).
+
+*Updates to newer Frama-C versions will be done over there instead.*
+
 # Frama-C's repository for SATE VI tests (Juliet 1.3 for C/C++)
 
 Frama-C 19 (Potassium) can be used to run C tests for
