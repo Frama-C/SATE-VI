@@ -1,4 +1,4 @@
-#### Note: this repository migrated to [Frama-C's public Gitlab](https://git.frama-c.com/pub/sate-6).
+#### Note: this repository migrated to [Frama-C's public Gitlab](https://git.frama-c.com/pub/sate-6/-/tree/master).
 
 *Updates to newer Frama-C versions will be done over there instead.*
 
